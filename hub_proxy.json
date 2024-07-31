@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "analytics.strava.com",
+      ],
+      "domain_suffix": [
+        "hubstudio.vip",
+        "dingxiang-inc.com",
+      ],
+	  "domain_keyword": [
+		"hubstudio",
+		"dingxiang-inc",
+	  ]
+    }
+  ]
+}
